@@ -1,0 +1,13 @@
+{
+  "name": "codespaces-actions-playground",
+  "version": "1.0.0",
+  "description": "Welcome to the GitHub Actions Playground! We've got everything fired up and running for you to explore GitHub Actions.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.2"
+  }
+}
